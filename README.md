@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Abdelrahman Omar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=.NET+Developer;Backend+Specialist;Core+Banking+Expert;Teaching+Assistant;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=.NET+Developer;Core+Banking+Expert;Teaching+Assistant;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
